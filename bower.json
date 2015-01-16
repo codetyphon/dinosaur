@@ -1,0 +1,11 @@
+{
+  "name": "dinosaur",
+  "private": true,
+  "dependencies": {
+    "wb": "http://www.wbjs.org/wb.js",
+    "wb.2d": "http://www.wbjs.org/wb.2d.js"
+  },
+  "devDependencies": {
+    "jquery": "~1.11.1"
+  }
+}
